@@ -1,3 +1,3 @@
 printf ("hello");
-prinjefweve
+prin hello
 
